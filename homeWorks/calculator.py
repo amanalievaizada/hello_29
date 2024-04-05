@@ -10,7 +10,7 @@ class calculator:
         return self.num1 - self.num2
 
     def __mul__(self):
-        return self.num1 * self.num2
+        return self.num1 * self.num2''
 
     def __truediv__(self):
         return self.num1 / self.num2
